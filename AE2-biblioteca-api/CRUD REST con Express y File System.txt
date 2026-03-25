@@ -1,0 +1,19 @@
+ENTREGA MÓDULO 8: IMPLEMENTACIÓN DE SEGURIDAD EN APLICACIONES NODE.JS
+
+Actividad — CRUD REST con Express y File System: Catálogo de Libros
+
+
+REPOSITORIO GITHUB: 🔗 
+https://github.com/E-lizzy93/M-DULO-8-IMPLEMENTACI-N-DE-API-BACKEND-NODE-EXPRESS.git
+
+ carpeta : AE2-biblioteca-api
+
+Estructura del Proyecto:
+
+catalogo.json: Base de datos local en formato JSON que almacena la información de los libros (títulos, autores, géneros, etc.).
+
+index.js: Punto de entrada de la aplicación donde se configuran los middlewares y se definen los métodos HTTP (GET, POST, PUT, DELETE) para el manejo de la biblioteca.
+
+package.json / package-lock.json: Archivos de configuración de NPM con las dependencias del proyecto (Express).
+
+README.md: Documentación con la descripción del CRUD y las instrucciones para probar los diferentes endpoints.
