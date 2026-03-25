@@ -1,0 +1,22 @@
+
+ENTREGA MÓDULO 8: IMPLEMENTACIÓN DE SEGURIDAD EN APLICACIONES NODE.JS
+
+Actividad — Fundamentos de API REST con Express: recursos “usuarios” y “productos”
+
+REPOSITORIO GITHUB: 🔗 
+https://github.com/E-lizzy93/M-DULO-8-IMPLEMENTACI-N-DE-API-BACKEND-NODE-EXPRESS.git
+
+carpeta : AE1-api-rest
+
+Descripción de la Entrega:
+En esta primera etapa del módulo, se ha establecido la base del proyecto enfocada en las mejores prácticas de seguridad para entornos Node.js.
+
+Estructura y Avances:
+
+Gestión de Variables de Entorno: Implementación de archivos .env para proteger credenciales sensibles (DB, Secret Keys), asegurando que no sean rastreadas por el control de versiones mediante el uso de .gitignore.
+
+Servidor Base con Express: Configuración de un servidor robusto preparado para la implementación de Middlewares de seguridad.
+
+Estructura de Carpetas Profesional: Organización orientada a la escalabilidad, separando rutas, controladores y modelos.
+
+Configuración de Dependencias: Gestión de paquetes esenciales para el manejo de seguridad y autenticación que se desarrollarán durante el módulo.
