@@ -1,0 +1,18 @@
+ENTREGA MÓDULO 8: IMPLEMENTACIÓN DE SEGURIDAD EN APLICACIONES NODE.JS
+
+Actividad -Autenticación y Autorización con JWT en Express
+
+REPOSITORIO GITHUB: 🔗 
+https://github.com/E-lizzy93/M-DULO-8-IMPLEMENTACI-N-DE-API-BACKEND-NODE-EXPRESS.git
+
+Carpeta : AE4-jwt-api
+
+Estructura del Proyecto:
+
+/middlewares: Contiene la lógica de protección de rutas. Aquí se encuentra el middleware que verifica si el token enviado por el cliente es válido antes de permitir el acceso a rutas privadas.
+
+.env.local: Archivo de configuración local para las variables de entorno, como la clave secreta (JWT_SECRET) necesaria para firmar y validar los tokens.
+
+index.js: Servidor principal que gestiona el login de usuarios, la generación de tokens y la exposición de endpoints protegidos.
+
+package.json / package-lock.json: Registro de dependencias fundamentales (como jsonwebtoken y dotenv).
