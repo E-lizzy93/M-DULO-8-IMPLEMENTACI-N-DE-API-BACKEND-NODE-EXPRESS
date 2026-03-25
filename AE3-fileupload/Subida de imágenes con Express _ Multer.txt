@@ -1,0 +1,18 @@
+ENTREGA MÓDULO 8: IMPLEMENTACIÓN DE SEGURIDAD EN APLICACIONES NODE.JS
+
+Actividad— Subida de imágenes con Express + Multer (backend + frontend básico)
+
+REPOSITORIO GITHUB: 🔗 
+https://github.com/E-lizzy93/M-DULO-8-IMPLEMENTACI-N-DE-API-BACKEND-NODE-EXPRESS.git
+
+carpeta: AE3-fileupload
+
+Estructura del Proyecto:
+
+/public: Contiene la interfaz de usuario con el formulario necesario para seleccionar y enviar archivos al servidor, además de la carpeta donde se almacenan los archivos cargados.
+
+server.js: Servidor Express configurado con middlewares específicos (como express-fileupload) para procesar las peticiones de tipo multipart/form-data y guardar los archivos en el servidor.
+
+package.json / package-lock.json: Registro de dependencias donde se gestionan las librerías necesarias para el manejo de archivos y el servidor web.
+
+README.md: Guía técnica con los pasos para probar la funcionalidad de subida y las validaciones implementadas.
